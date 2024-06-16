@@ -1,5 +1,6 @@
-1st Step - Pintharu-Homes-Backend-Python\ inside this directory
-		Type on terminal "py -m venv venv"   
+1st Step - Pintharu-Homes-Backend-Python\ inside this directory Type on terminal to create virtual environment
+            
+		py -m venv venv   
 
 2nd Step  - After that you go venv/Scripts and type
 
